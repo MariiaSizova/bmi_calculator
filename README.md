@@ -1,1 +1,1 @@
-# bmi_calculator
+# imt_calculator
